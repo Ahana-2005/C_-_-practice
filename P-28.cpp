@@ -1,3 +1,4 @@
+//Write a c++ program to demonstrate the use of rifht and eft shift operator.
 #include <iostream>
 using namespace std;
 class SimpleInt {
