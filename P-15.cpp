@@ -1,4 +1,4 @@
-//Write a program in c to calculate the area of triangle using Heron's formula.
+//Write a program in c++ to calculate the area of triangle using Heron's formula.
 #include <iostream>
 #include <math.h>
 

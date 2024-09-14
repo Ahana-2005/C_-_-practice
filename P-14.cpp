@@ -1,4 +1,4 @@
-//Write a program in c to make your own digital storage converter by taking the size in KB and convert it MB,GB and TB.
+//Write a program in c++ to make your own digital storage converter by taking the size in KB and convert it MB,GB and TB.
 #include <iostream>
 using namespace std;
 class Byte{
